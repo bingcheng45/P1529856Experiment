@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: mybluemix.net
+  name: P1529856Experiment
+  host: P1529856Experiment
+  disk_quota: 1024M
