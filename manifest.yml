@@ -6,3 +6,4 @@ applications:
   name: P1529856Experiment
   host: P1529856Experiment
   disk_quota: 1024M
+buildpack: https://github.com/cloudfoundry/nodejs-buildpack
